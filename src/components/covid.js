@@ -7,7 +7,7 @@ const Covid = () => {
     const [selectedState, setSelectedState] = useState('');
 
     useEffect(() => {
-        //  getCovidData();
+       getCovidData();
     }, []);
 
     const getCovidData = async () => {

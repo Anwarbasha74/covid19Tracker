@@ -1,0 +1,262 @@
+
+{
+    "statewise": [
+        {
+            "state": "Total",
+            "active": "200000",
+            "confirmed": "500000",
+            "recovered": "290000",
+            "deaths": "10000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Maharashtra",
+            "active": "50000",
+            "confirmed": "150000",
+            "recovered": "95000",
+            "deaths": "5000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Delhi",
+            "active": "30000",
+            "confirmed": "100000",
+            "recovered": "67000",
+            "deaths": "3000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Karnataka",
+            "active": "25000",
+            "confirmed": "80000",
+            "recovered": "52000",
+            "deaths": "3000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Tamil Nadu",
+            "active": "24000",
+            "confirmed": "78000",
+            "recovered": "51000",
+            "deaths": "3000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Uttar Pradesh",
+            "active": "20000",
+            "confirmed": "70000",
+            "recovered": "48000",
+            "deaths": "2000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "West Bengal",
+            "active": "18000",
+            "confirmed": "64000",
+            "recovered": "43000",
+            "deaths": "3000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Gujarat",
+            "active": "17000",
+            "confirmed": "62000",
+            "recovered": "42000",
+            "deaths": "3000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Rajasthan",
+            "active": "15000",
+            "confirmed": "60000",
+            "recovered": "43000",
+            "deaths": "2000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Bihar",
+            "active": "12000",
+            "confirmed": "50000",
+            "recovered": "37000",
+            "deaths": "1000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Madhya Pradesh",
+            "active": "11000",
+            "confirmed": "48000",
+            "recovered": "35000",
+            "deaths": "2000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Kerala",
+            "active": "10000",
+            "confirmed": "45000",
+            "recovered": "33000",
+            "deaths": "1000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Odisha",
+            "active": "9000",
+            "confirmed": "42000",
+            "recovered": "31000",
+            "deaths": "1000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Punjab",
+            "active": "8000",
+            "confirmed": "40000",
+            "recovered": "30000",
+            "deaths": "1000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Haryana",
+            "active": "7000",
+            "confirmed": "38000",
+            "recovered": "28000",
+            "deaths": "1000",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Assam",
+            "active": "6000",
+            "confirmed": "35000",
+            "recovered": "27000",
+            "deaths": "500",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Jharkhand",
+            "active": "5000",
+            "confirmed": "30000",
+            "recovered": "24000",
+            "deaths": "500",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Chhattisgarh",
+            "active": "4000",
+            "confirmed": "25000",
+            "recovered": "19000",
+            "deaths": "500",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Himachal Pradesh",
+            "active": "3000",
+            "confirmed": "20000",
+            "recovered": "15000",
+            "deaths": "500",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Goa",
+            "active": "2000",
+            "confirmed": "15000",
+            "recovered": "12000",
+            "deaths": "300",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Tripura",
+            "active": "1000",
+            "confirmed": "10000",
+            "recovered": "8000",
+            "deaths": "200",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Meghalaya",
+            "active": "900",
+            "confirmed": "9000",
+            "recovered": "7000",
+            "deaths": "100",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Manipur",
+            "active": "800",
+            "confirmed": "8000",
+            "recovered": "6000",
+            "deaths": "100",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Nagaland",
+            "active": "700",
+            "confirmed": "7000",
+            "recovered": "5500",
+            "deaths": "100",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Arunachal Pradesh",
+            "active": "600",
+            "confirmed": "6000",
+            "recovered": "4500",
+            "deaths": "50",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Mizoram",
+            "active": "500",
+            "confirmed": "5000",
+            "recovered": "4000",
+            "deaths": "50",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Sikkim",
+            "active": "400",
+            "confirmed": "4000",
+            "recovered": "3000",
+            "deaths": "50",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Union Territory of Jammu and Kashmir",
+            "active": "1000",
+            "confirmed": "10000",
+            "recovered": "8000",
+            "deaths": "200",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Union Territory of Ladakh",
+            "active": "200",
+            "confirmed": "2000",
+            "recovered": "1500",
+            "deaths": "50",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Union Territory of Chandigarh",
+            "active": "500",
+            "confirmed": "4000",
+            "recovered": "3500",
+            "deaths": "50",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Union Territory of Andaman and Nicobar Islands",
+            "active": "100",
+            "confirmed": "1500",
+            "recovered": "1300",
+            "deaths": "20",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        },
+        {
+            "state": "Union Territory of Lakshadweep",
+            "active": "50",
+            "confirmed": "500",
+            "recovered": "400",
+            "deaths": "10",
+            "lastupdatedtime": "01/09/2024 10:00:00"
+        }
+        
+    ]
+}

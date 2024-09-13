@@ -106,7 +106,7 @@ ul {
 }
 
 .main_card {
-    width: fit-content;
+    /* width: fit-content; */
     height: max-content;
     padding: 8px;
     text-align: center;
